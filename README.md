@@ -18,7 +18,7 @@ The IoT-based Automatic Vehicle Accident Detection and Rescue System is to enhan
 
 ## REQUIREMENTS :
 
-+ Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
++ Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu).
 
 
 ## SYSTEM ARCHITECTURE :
